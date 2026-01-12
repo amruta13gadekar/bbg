@@ -1,6 +1,4 @@
 from bank1 import bank_details
-
-
 def test_bank_details():
     expected_output = (
         "Account Holder Name:Ammu\n"
